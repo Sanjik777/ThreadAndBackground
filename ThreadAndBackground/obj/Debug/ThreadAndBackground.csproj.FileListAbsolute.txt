@@ -1,0 +1,14 @@
+c:\users\бейсеевс.corp\source\repos\ThreadAndBackground\ThreadAndBackground\bin\Debug\ThreadAndBackground.exe.config
+c:\users\бейсеевс.corp\source\repos\ThreadAndBackground\ThreadAndBackground\bin\Debug\ThreadAndBackground.exe
+c:\users\бейсеевс.corp\source\repos\ThreadAndBackground\ThreadAndBackground\bin\Debug\ThreadAndBackground.pdb
+c:\users\бейсеевс.corp\source\repos\ThreadAndBackground\ThreadAndBackground\obj\Debug\ThreadAndBackground.csprojAssemblyReference.cache
+c:\users\бейсеевс.corp\source\repos\ThreadAndBackground\ThreadAndBackground\obj\Debug\ThreadAndBackground.csproj.CoreCompileInputs.cache
+c:\users\бейсеевс.corp\source\repos\ThreadAndBackground\ThreadAndBackground\obj\Debug\ThreadAndBackground.exe
+c:\users\бейсеевс.corp\source\repos\ThreadAndBackground\ThreadAndBackground\obj\Debug\ThreadAndBackground.pdb
+D:\Documents\ШАГ\net programing\3_Threads\ThreadAndBackground\ThreadAndBackground\bin\Debug\ThreadAndBackground.exe.config
+D:\Documents\ШАГ\net programing\3_Threads\ThreadAndBackground\ThreadAndBackground\bin\Debug\ThreadAndBackground.exe
+D:\Documents\ШАГ\net programing\3_Threads\ThreadAndBackground\ThreadAndBackground\bin\Debug\ThreadAndBackground.pdb
+D:\Documents\ШАГ\net programing\3_Threads\ThreadAndBackground\ThreadAndBackground\obj\Debug\ThreadAndBackground.csprojResolveAssemblyReference.cache
+D:\Documents\ШАГ\net programing\3_Threads\ThreadAndBackground\ThreadAndBackground\obj\Debug\ThreadAndBackground.csproj.CoreCompileInputs.cache
+D:\Documents\ШАГ\net programing\3_Threads\ThreadAndBackground\ThreadAndBackground\obj\Debug\ThreadAndBackground.exe
+D:\Documents\ШАГ\net programing\3_Threads\ThreadAndBackground\ThreadAndBackground\obj\Debug\ThreadAndBackground.pdb
